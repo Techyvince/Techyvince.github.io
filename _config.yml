@@ -5,8 +5,8 @@ logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/Techyvince
 about: Devops Engineer
 
-baseurl: "https://github.com/Techyvince/Techyvince.github.io"
-url: "https://github.com/Techyvince/Techyvince.github.io"
+baseurl: ""
+url: ""
 
 allowsearch: true
 
